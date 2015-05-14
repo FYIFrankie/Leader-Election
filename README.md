@@ -6,7 +6,7 @@ This is my take on [Chang and Roberts algorithm](http://en.wikipedia.org/wiki/Ch
 
 # Dependencies
 
-*[Flask](http://flask.pocoo.org/)
+* [Flask](http://flask.pocoo.org/)
 
 # To Run
 
